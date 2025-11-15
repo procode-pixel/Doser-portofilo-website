@@ -628,16 +628,19 @@ hr{
 
     }
     .home-content h1{
-        font-size: 8rem;
+        font-size: 6rem; /* تم تصغير حجم الخط ليتناسب أكثر مع شاشة الهاتف */
         margin-top: 3rem;
+    }
+    .text-animation{
+        font-size: 28px; /* تم تصغير حجم خط الأنيميشن */
     }
     .home-content p{
         max-width: 600px;
         margin: 0 auto;
     }
     .home-img img{
-        width: 56vw;
-        height: 56vw;
+        width: 50vw; /* تم تصغير حجم الصورة قليلاً */
+        height: 50vw;
     }
     .services h2{
         margin-bottom: 3rem;
